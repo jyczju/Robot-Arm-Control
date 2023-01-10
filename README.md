@@ -1,5 +1,6 @@
 # Robot-Arm-Control
 请使用Coppeliasim软件打开ttt文件
+
 IK文件夹中的myIKSolver.py为我们组自己实现的逆运动学求解器，包含了求解+可行解筛选
 
 ！！！使用时，请保证myIKSolver.py在IK文件夹中，否则将import失败！！！
